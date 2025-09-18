@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(app LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "app")
+=======
+project(flutter_application_1 LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "flutter_application_1")
+>>>>>>> 4be8f24d7fd2fb53b2a066ba24bb8494fc94ffad
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

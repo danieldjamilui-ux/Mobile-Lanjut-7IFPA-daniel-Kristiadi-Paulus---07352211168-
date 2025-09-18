@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 name: app
+=======
+name: flutter_application_1
+>>>>>>> 4be8f24d7fd2fb53b2a066ba24bb8494fc94ffad
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
 
 environment:
+<<<<<<< HEAD
   sdk: ^3.5.1
+=======
+  sdk: ^3.9.0
+>>>>>>> 4be8f24d7fd2fb53b2a066ba24bb8494fc94ffad
 
 dependencies:
   flutter:
@@ -13,7 +21,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+<<<<<<< HEAD
   flutter_lints: ^4.0.0
+=======
+  flutter_lints: ^5.0.0
+>>>>>>> 4be8f24d7fd2fb53b2a066ba24bb8494fc94ffad
 
 flutter:
   uses-material-design: true
