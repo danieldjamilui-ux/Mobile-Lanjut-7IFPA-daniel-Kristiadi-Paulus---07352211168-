@@ -65,7 +65,7 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "BarlTzyShope",
+          "DPShope",
           style: TextStyle(
               fontSize: 30, fontWeight: FontWeight.bold, color: Colors.white),
         ),
